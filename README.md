@@ -6,4 +6,4 @@ This application is a News system using the news-api.
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the application.
+Click [here](https://weidongli20.github.io/news-api/) to launch the application.
