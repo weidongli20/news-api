@@ -6,4 +6,4 @@ This application is a NEWS API applications.
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the application.
+Click [here](index.html) to launch the application.
